@@ -1,7 +1,7 @@
 # WebVM
 
 [![Discord server](https://img.shields.io/discord/988743885121548329?color=%235865F2&logo=discord&logoColor=%23fff)](https://discord.gg/yWRr2YnD9c)
-[![Issues](https://img.shields.io/github/issues/leaningtech/webvm)](https://github.com/leaningtech/webvm/issues)
+[![Issues](https://img.shields.io/github/issues/realazarus/webvm-master)](https://github.com/realazarus/webvm-master/issues)
 
 This repository hosts the source code for [https://webvm.io](https://webvm.io), a Linux virtual machine that runs in your browser.
 
@@ -50,7 +50,7 @@ You can now customize `dockerfiles/debian_mini` to suit your needs, or make a ne
 1. Clone the WebVM Repository
 
 ```sh
-git clone https://github.com/leaningtech/webvm.git
+git clone https://github.com/realazarus/webvm-master/webvm.git
 cd webvm
 ```
 
@@ -145,7 +145,7 @@ index 2878332..1f3103a 100644
 
 # Bugs and Issues
 
-Please use [Issues](https://github.com/leaningtech/webvm/issues) to report any bug.
+Please use [Issues](https://github.com/realazarus/webvm-master/issues) to report any bug.
 Or come to say hello / share your feedback on [Discord](https://discord.gg/yTNZgySKGa).
 
 # More links
